@@ -1,6 +1,8 @@
 # GameKeyBlocker
 
-Um utilitário desenvolvido em C# e Windows Forms focado em prevenir interrupções acidentais durante sessões de jogos ou momentos de foco intenso. O programa utiliza a API Win32 (Low-Level Keyboard Hooks) para interceptar e bloquear atalhos de sistema do Windows que normalmente tiram o usuário da tela ativa.
+Já perdeu uma disputa em algum jogo online ou qualquer outro tipo, por ter seu jogo minimizado devido ao o Windows achar que você estava pressionando algum atalho? Esse pequeno programa resolve esse estresse! Nunca mais tenha seu jogo minimizado em suas sessões.
+
+O Bloqueador de Atalhos do WindowsUm é um utilitário desenvolvido em C# e Windows Forms focado em prevenir interrupções acidentais durante sessões de jogos ou momentos de foco intenso. O programa utiliza a API Win32 (Low-Level Keyboard Hooks) para interceptar e bloquear atalhos de sistema do Windows que normalmente tiram o usuário da tela ativa.
 
 ## Principais Funcionalidades
 
