@@ -1,4 +1,4 @@
-# GameKeyBlocker
+# Bloqueador de Atalhos do Windows
 
 Já perdeu uma disputa em algum jogo online ou qualquer outro tipo, por ter seu jogo minimizado devido o Windows achar que você estava pressionando algum atalho? Esse pequeno programa resolve esse estresse! Nunca mais tenha seu jogo minimizado em suas sessões.
 
